@@ -68,7 +68,6 @@ public class SaldoController extends HttpServlet {
 		//sesion
 		HttpSession session = request.getSession();
 		session.setAttribute("user_id", usuario.getId());
-		session.setAttribute("nombre", usuario.getNombre());
 		session.setAttribute("email", usuario.getEmail());
 		session.setAttribute("saldo", usuario.getSaldo());
 		
