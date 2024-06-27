@@ -26,7 +26,7 @@
         <div class="container-xl">
             <nav class="navbar navbar-expand-lg navbar-light bg-white">
                 <div class="navbar-collapse collapse justify-content-center">
-                    <a class="navbar-brand" href="/menu.html"><strong>A</strong>lke <strong>W</strong>allet</a>
+                    <a class="navbar-brand" ><strong>A</strong>lke <strong>W</strong>allet</a>
                 </div>
             </nav>
         </div>
@@ -83,4 +83,14 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
+<style>
+        body {
+            background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+        div 
+        {background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+    </style>
 </html>

@@ -119,4 +119,14 @@
 		integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 		crossorigin="anonymous"></script>
 </body>
+<style>
+        body {
+            background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+        div 
+        {background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+    </style>
 </html>

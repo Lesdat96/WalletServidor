@@ -11,7 +11,7 @@ public class Dao {
 	private static final String SCHEMA = "alkewallet";
 	private static final String BD = "jdbc:mysql://localhost/" + SCHEMA;
 	private static final String USER = "root";
-	private static final String PASS = "User987654321";
+	private static final String PASS = "admin";
 	//public static ResultSet rs = null;
 	private static Statement stmt;
 	

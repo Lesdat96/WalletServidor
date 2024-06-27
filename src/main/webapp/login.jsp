@@ -28,7 +28,7 @@
 		<div class="container-xl">
 			<nav class="navbar navbar-expand-lg navbar-light bg-white">
 				<div class="navbar-collapse collapse justify-content-center">
-					<a class="navbar-brand" href="/menu.html"><strong>A</strong>lke
+					<a class="navbar-brand" ><strong>A</strong>lke
 						<strong>W</strong>allet</a>
 				</div>
 			</nav>
@@ -69,4 +69,13 @@
 	<script
 		src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-</html>
+    <style>
+        body {
+            background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+        div 
+        {background-color: #577CFB; /* Cambia a tu color preferido */
+            color: #333333; /* Color del texto */
+        }
+    </style>

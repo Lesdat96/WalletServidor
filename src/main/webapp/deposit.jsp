@@ -105,7 +105,7 @@
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                   <li class="nav-item active">
-                    <a class="nav-link" href="/menu.html">Menu <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/menu.jsp">Menu <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="deposit.html">Cargar dinero</a>
@@ -149,4 +149,5 @@
 <script src="script.js">
 </script>
 </body>
+
 </html>

@@ -110,7 +110,7 @@ body {
 	<header>
 		<div class="container-xl">
 			<nav class="navbar navbar-expand-lg navbar-light bg-white">
-				<a class="navbar-brand" href="/menu.html"><strong>A</strong>lke
+				<strong>A</strong>lke
 					<strong>W</strong>allet</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse"
 					data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"

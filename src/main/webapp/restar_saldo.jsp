@@ -120,7 +120,7 @@ body {
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav">
 						<li class="nav-item"><a class="nav-link"
-							href="/AlkeWallet/home">Agregar saldo</a></li>
+							href="/AlkeWallet/sumar-saldo">Agregar saldo</a></li>
 						<li class="nav-item"><a class="nav-link"
 							href="/AlkeWallet/realizar-transaccion">Transferir</a></li>
 						<li class="nav-item"><a class="nav-link"
